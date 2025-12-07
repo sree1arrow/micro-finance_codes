@@ -7,7 +7,7 @@ The company’s mission is to empower individuals from low-income communities by
 
 ---
 
-## 🧮 Simple Interest Calculation
+## Simple Interest Calculation
 
 Simple Interest (SI) is widely used in micro-loans, short-term credit, and community lending programs. The script in this repository automates this calculation.
 
@@ -27,14 +27,13 @@ If the principal is ₹5,000 at an interest rate of 12% for 2 years:
 
 SI = (5000 × 12 × 2) / 100 = 1200
 
-yaml
-Copy code
+
 
 The simple interest payable would be **₹1,200**.
 
 ---
 
-## 🖥️ Script Usage
+## Script Usage
 
 The script `simple_interest.sh` calculates the simple interest using the formula above.
 
